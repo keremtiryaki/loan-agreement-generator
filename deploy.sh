@@ -1,0 +1,1 @@
+wrangler pages deploy dist --project-name=loan-agreement-generator --branch=main --no-bundle
